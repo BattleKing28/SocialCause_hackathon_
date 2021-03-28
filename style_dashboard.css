@@ -3,10 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+.container-fluid {
+  height: 5rem;
+}
 body {
   min-height: 100vh;
-  background-color: #fbeeac;
 }
 .navigation {
   position: fixed;
@@ -60,4 +61,11 @@ body {
   line-height: 60px;
   text-align: start;
   white-space: nowrap;
+}
+.srcz {
+  padding-top: 10rem;
+  padding-bottom: 20px;
+}
+.p {
+  font-size: 25px;
 }
