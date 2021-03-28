@@ -12,3 +12,6 @@ How to run the Aapka Sahara website
 5. Import aapkasahara.sql file(given inside the zip package in sql file folder)
    7.Run the script http://localhost/SocialCause_hackathon1 (frontend)
    Credential for user panel OR you can register your self:
+   
+   Website hosted on cloud poco - 
+   http://raolpatel.in/login.php
